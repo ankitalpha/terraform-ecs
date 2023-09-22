@@ -1,0 +1,1 @@
+vpc_id = "" # provide vpc id here it will be used as variable
