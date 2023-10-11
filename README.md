@@ -1,1 +1,1 @@
-# terraform-finnoto-ecs
+# terraform-ecs
